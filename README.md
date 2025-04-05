@@ -6,6 +6,20 @@
 
 ---
 
+## 🖼️ Screenshots
+
+📌 Contoh penggunaan CLI:
+
+### 1️⃣ CLI Help Menu
+
+![Help Menu](screenshot/screenshot2.png)
+
+---
+
+### 2️⃣ Output Example
+
+![Output Example](screenshot/screenshot1.png)
+
 ## Features
 
 1. Flexible Input Options
@@ -65,10 +79,15 @@ Advanced Options:
 ## Usage
 
 ### Basic usage with a dork file
+
 python3 dorkingPRIB.py --dork-file payloads/SQLi/sqli1.txt --engine google --output results.json
+
 ### Target specific domain with dork file
+
 python3 dorkingPRIB.py --domain kominfo.go.id --dork-file payloads/SQLi/sqli1.txt --engine all --output kominfo_sqli.json
+
 ### With advanced options
+
 python3 dorkingPRIB.py --domain example.com --dork-file payloads/SQLi/sqli1.txt --engine google --output results.json --no-duplicate --delay 3 --timeout 10 --max-pages 5 --validate
 
 ⚠️ Disclaimer
