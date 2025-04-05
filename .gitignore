@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Log files
+*.log
+
+# Output folder
+output/
+build/
+dist/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# pipenv files
+Pipfile.lock
+
+# Environment variable file
+.env
+
+# Jupyter notebooks 
+.ipynb_checkpoints/
+
+# macOS 
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini

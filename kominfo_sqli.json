@@ -1,0 +1,92 @@
+[
+  {
+    "dork": "site:kominfo.go.id detail.php?id=",
+    "url": "https://sman1weleri.sch.id/detail.php?id=13",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id detail.php?id=",
+    "url": "http://www.embryohotel.com/room-detail.php?id=1",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id detail.php?id=",
+    "url": "https://www.yamaha-kaltim.co.id/product-detail.php?id=86",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id detail.php?id=",
+    "url": "https://smkmikael.sch.id/gallery.php?id=1",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id detail.php?id=",
+    "url": "https://dislhk.riau.go.id/lihat_berita.php?id_berita=97",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://support.google.com/clock/answer/2841106?hl=en",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://support.google.com/android/answer/2841106?hl=en",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://support.google.com/maps/answer/6258979?hl=en&amp;co=GENIE.Platform%3DDesktop",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://support.google.com/docs/answer/3092969?hl=en",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://jingyan.baidu.com/article/9f63fb9189dbc3c8400f0e37.html",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://support.google.com/docs/thread/3080777/how-do-you-change-the-date-format-in-google-forms?hl=en",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://support.google.com/chrome/answer/95346?hl=en&amp;co=GENIE.Platform%3DDesktop",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://jingyan.baidu.com/article/d621e8daf8e6d76865913f87.html",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://jingyan.baidu.com/article/ae97a646ada4a1fafc461d55.html",
+    "engine": "bing",
+    "status_code": null
+  },
+  {
+    "dork": "site:kominfo.go.id inurl:date=",
+    "url": "https://support.google.com/pixelphone/thread/317228576/pixel-4a-battery-performance-program?hl=en",
+    "engine": "bing",
+    "status_code": null
+  }
+]
