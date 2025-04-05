@@ -64,16 +64,11 @@ Advanced Options:
 
 ## Usage
 
-# Basic usage with a dork file
-
+### Basic usage with a dork file
 python3 dorkingPRIB.py --dork-file payloads/SQLi/sqli1.txt --engine google --output results.json
-
-# Target specific domain with dork file
-
+### Target specific domain with dork file
 python3 dorkingPRIB.py --domain kominfo.go.id --dork-file payloads/SQLi/sqli1.txt --engine all --output kominfo_sqli.json
-
-# With advanced options
-
+### With advanced options
 python3 dorkingPRIB.py --domain example.com --dork-file payloads/SQLi/sqli1.txt --engine google --output results.json --no-duplicate --delay 3 --timeout 10 --max-pages 5 --validate
 
 ⚠️ Disclaimer
